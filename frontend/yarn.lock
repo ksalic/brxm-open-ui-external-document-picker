@@ -903,12 +903,12 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bloomreach/ui-extension@^13.3.0":
-  version "13.4.2"
-  resolved "https://registry.yarnpkg.com/@bloomreach/ui-extension/-/ui-extension-13.4.2.tgz#e6e288871fefa8c78b7d38fc35a2c41beb3f6731"
+"@bloomreach/ui-extension@^14.0.1":
+  version "14.7.3"
+  resolved "https://registry.yarnpkg.com/@bloomreach/ui-extension/-/ui-extension-14.7.3.tgz#fb66b5aa82ade232fee37c8f703ce38741cb29a1"
   dependencies:
-    emittery "^0.4"
-    penpal "^4.0"
+    emittery "^0.6"
+    penpal "^4.1"
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
@@ -2851,7 +2851,7 @@ debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   dependencies:
     ms "2.0.0"
 
-debug@^3.0.0, debug@^3.1.1, debug@^3.2.5:
+debug@^3.1.1, debug@^3.2.5:
   version "3.2.6"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   dependencies:
@@ -3136,9 +3136,9 @@ elliptic@^6.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.0"
 
-emittery@^0.4:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/emittery/-/emittery-0.4.1.tgz#abe9d3297389ba424ac87e53d1c701962ce7433d"
+emittery@^0.6:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/emittery/-/emittery-0.6.0.tgz#e85312468d77c3ed9a6adf43bb57d34849e0c95a"
 
 emoji-regex@^7.0.1, emoji-regex@^7.0.2:
   version "7.0.3"
@@ -3711,10 +3711,8 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.10.0.tgz#01f5263aee921c6a54fb91667f08f4155ce169eb"
-  dependencies:
-    debug "^3.0.0"
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
 
 for-in@^0.1.3:
   version "0.1.8"
@@ -6213,7 +6211,7 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-penpal@^4.0:
+penpal@^4.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/penpal/-/penpal-4.1.1.tgz#c96ccfdac441682acf617f6dcbc177a614e8302b"
 
