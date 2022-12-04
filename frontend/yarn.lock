@@ -903,12 +903,12 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bloomreach/ui-extension@^13.3.0":
-  version "13.4.2"
-  resolved "https://registry.yarnpkg.com/@bloomreach/ui-extension/-/ui-extension-13.4.2.tgz#e6e288871fefa8c78b7d38fc35a2c41beb3f6731"
+"@bloomreach/ui-extension@^14.0.1":
+  version "14.7.12"
+  resolved "https://registry.yarnpkg.com/@bloomreach/ui-extension/-/ui-extension-14.7.12.tgz#828a68028e9e1b3accd6f75c9056efd516739f30"
   dependencies:
-    emittery "^0.4"
-    penpal "^4.0"
+    emittery "^0.6"
+    penpal "^4.1"
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
@@ -2874,8 +2874,8 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-equal@^1.0.1:
   version "1.1.1"
@@ -3136,9 +3136,9 @@ elliptic@^6.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.0"
 
-emittery@^0.4:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/emittery/-/emittery-0.4.1.tgz#abe9d3297389ba424ac87e53d1c701962ce7433d"
+emittery@^0.6:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/emittery/-/emittery-0.6.0.tgz#e85312468d77c3ed9a6adf43bb57d34849e0c95a"
 
 emoji-regex@^7.0.1, emoji-regex@^7.0.2:
   version "7.0.3"
@@ -6213,7 +6213,7 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-penpal@^4.0:
+penpal@^4.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/penpal/-/penpal-4.1.1.tgz#c96ccfdac441682acf617f6dcbc177a614e8302b"
 
